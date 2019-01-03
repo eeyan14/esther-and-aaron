@@ -795,6 +795,22 @@ a:hover, a:focus, a:active {
   color: rgba(255, 255, 255, 0.7);
 }
 
+.probootstrap-section.probootstrap-section-colored a:link, .probootstrap-section.probootstrap-section-colored-darker a:link {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.probootstrap-section.probootstrap-section-colored a:hover, .probootstrap-section.probootstrap-section-colored-darker a:hover {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.probootstrap-section.probootstrap-section-colored a:visited, .probootstrap-section.probootstrap-section-colored-darker a:visited {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.probootstrap-section.probootstrap-section-colored a:active, .probootstrap-section.probootstrap-section-colored-darker a:active {
+  color: rgba(255, 255, 255, 0.8);
+}
+
 .probootstrap-section.probootstrap-section-colored-darker {
   background: #b75656;
 }
