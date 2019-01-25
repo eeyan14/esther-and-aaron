@@ -1067,6 +1067,10 @@ a:hover, a:focus, a:active {
   cursor: pointer;
 }
 
+.ey-registry-experiences-list-done {
+  color: rgba(255, 255, 255, 0.4);
+}
+
 .probootstrap-section.probootstrap-section-colored-darker p, .ey-registry-experiences-description p {
   color: white;
   margin: 10px auto 20px auto;
