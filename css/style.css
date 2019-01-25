@@ -1063,6 +1063,10 @@ a:hover, a:focus, a:active {
   font-weight: bold;
 }
 
+.ey-registry-experiences-summary:hover {
+  cursor: pointer;
+}
+
 .probootstrap-section.probootstrap-section-colored-darker p, .ey-registry-experiences-description p {
   color: white;
   margin: 10px auto 20px auto;
