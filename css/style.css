@@ -1057,6 +1057,10 @@ a:hover, a:focus, a:active {
   font-weight: 300;
 }
 
+.ey-registry-experiences-heading {
+  margin-top: 40px;
+}
+
 .ey-registry-experiences-summary {
   font-family: "Zilla Slab", serif;
   font-size: 20pt;
